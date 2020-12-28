@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Building DevSecOps Framework
+- 🌱 I’m currently learning DevOpsing
+- 👯 I’m looking to collaborate on Terraform 
+- 🤔 I’m looking for help with Building a SaaS
+- 📫 How to reach me: https://mhmd.io
+- ⚡ Fun fact: Awesome horse ridder with 5 fractures from falling.
+
 <!--
 **mhmdio/mhmdio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
