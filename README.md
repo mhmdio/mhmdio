@@ -1,7 +1,7 @@
 ### Salam there 👋
 
-- 🔭 I’m currently working on Building DevSecOps Framework
-- 🌱 I’m currently learning DevOpsing
+- 🔭 I’m currently working on Building IaC DevSecOps Framework
+- 🌱 I’m currently learning GitOps
 - 👯 I’m looking to collaborate on Terraform 
 - 🤔 I’m looking for help with Building a SaaS
 - 📫 How to reach me: https://cloudfalcon.io
